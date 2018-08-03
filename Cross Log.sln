@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Log", "Cross Log\Cross Log.csproj", "{750CF91D-FF73-429D-A04B-92C39F66C4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Log Library", "Cross Log Library\Cross Log Library.csproj", "{03376A9D-84DF-4D34-814D-00AF77A01D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750CF91D-FF73-429D-A04B-92C39F66C4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750CF91D-FF73-429D-A04B-92C39F66C4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750CF91D-FF73-429D-A04B-92C39F66C4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750CF91D-FF73-429D-A04B-92C39F66C4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03376A9D-84DF-4D34-814D-00AF77A01D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03376A9D-84DF-4D34-814D-00AF77A01D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03376A9D-84DF-4D34-814D-00AF77A01D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03376A9D-84DF-4D34-814D-00AF77A01D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2132E8D-2E12-4C8C-9BF0-E00A15E14DF1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfsaxel.axeltech.loc/axel%20project
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Cross\u0020Log\\Cross\u0020Log.csproj
+		SccProjectName1 = Cross\u0020Log
+		SccLocalPath1 = Cross\u0020Log
+		SccProjectUniqueName2 = Cross\u0020Log\u0020Library\\Cross\u0020Log\u0020Library.csproj
+		SccProjectName2 = Cross\u0020Log\u0020Library
+		SccLocalPath2 = Cross\u0020Log\u0020Library
+	EndGlobalSection
+EndGlobal
